@@ -1,0 +1,5 @@
+name: N_RandomBattle
+version: '${version}'
+main: io.github.narikakun.mc.n_randombattle.N_RandomBattle
+api-version: 1.16
+authors: [ narikakun ]
